@@ -1,0 +1,2 @@
+D:\Proiect\TriviadorGame\TriviadorClient\x64\Debug\TriviadorClient.vcxproj.CopyComplete
+C:\Users\Magda\Desktop\sem1\Proiect\TriviadorGame\TriviadorClient\x64\Debug\TriviadorClient.vcxproj.CopyComplete
